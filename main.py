@@ -63,8 +63,8 @@ BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="📞 Contact"
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+3k-1zcJxINYwNGZl"),
-            InlineKeyboardButton(text="🛠️ Repo", url="https://github.com/nikhilsainiop/saini-txt-direct"),
+            InlineKeyboardButton(text="🛠️ GUDDU BANNA", url="𝙆𝙐𝙉𝙒𝘼𝙍 𝙎𝘼 𝙎𝙊𝘿𝙃𝘼🌹"),
+            InlineKeyboardButton(text="🛠️ GUDDU BANNA", url="𝙆𝙐𝙉𝙒𝘼𝙍 𝙎𝘼 𝙎𝙊𝘿𝙃𝘼🌹"),
         ],
     ]
 )
@@ -417,7 +417,7 @@ async def txt_handler(client: Client, m: Message):
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n" 
         f"📌 𝗠𝗮𝗶𝗻 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:\n\n"  
         f"➥ /start – Bot Status Check\n"
-        f"➥ /drm – Extract from .txt (Auto)\n"
+        f"➥ /Asha💋 – Extract from .txt (Auto)\n"
         f"➥ /y2t – YouTube → .txt Converter\n"  
         f"➥ /t2t – Text → .txt Generator\n" 
         f"➥ /stop – Cancel Running Task\n"
